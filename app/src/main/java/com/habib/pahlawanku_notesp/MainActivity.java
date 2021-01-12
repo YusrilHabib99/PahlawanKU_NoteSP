@@ -20,7 +20,6 @@ import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import java.util.List;
 
 import com.habib.pahlawanku_notesp.Model.Note;
-;
 
 public class MainActivity extends AppCompatActivity {
     FloatingActionButton btnTambahNote;
